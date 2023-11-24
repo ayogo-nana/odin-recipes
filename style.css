@@ -1,0 +1,19 @@
+.recipes-header,
+.recipes-description {
+    text-align: center;
+} 
+
+.recipes-header {
+    background-color: burlywood;
+}
+
+.koko-header {
+    background-color: grey;
+    color: aliceblue;
+}
+
+.recipes-description {
+    background-color: rgb(162, 105, 105);
+    color: rgb(255, 250, 240);
+}
+
